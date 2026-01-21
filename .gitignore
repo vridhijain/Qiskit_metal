@@ -1,0 +1,6 @@
+.env/
+venv/, env/
+*.log
+*.tmp
+temp/
+.DS_Store
