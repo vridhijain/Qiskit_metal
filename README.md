@@ -1,1 +1,1 @@
-# Qiskit_metal
+# Qiskit metal
